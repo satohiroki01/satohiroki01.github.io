@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Arial Black','ヒラギノ角ゴシック','Hiragino Sans','メイリオ', Meiryo,'ヒラギノ角ゴ StdN','Hiragino Kaku Gothic StdN',sans-serif;
+    font-size:3em;
+    line-height:250%;
+    margin: 0px;
+}
+
+body{
+    /* 背景色指定 */
+    background: linear-gradient(45deg, #10100E, #720c13);
+    color:white;
+    font-family: "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN", Meiryo,"メイリヨ";
+}
+
+h2{
+    background-color: rgb(0, 0, 0);
+}
+
+dt{
+    background-color: black;
+}
